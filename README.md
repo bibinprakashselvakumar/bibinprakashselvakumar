@@ -1,4 +1,10 @@
 <!---
+### Hi there 👋
+
+I'm Bibin Prakash, a Computer Science graduate student at Purdue University. I'm passionate about Machine Learning and Web development. The following is a brief summary of the projects I've worked on.
+--->
+
+<!---
 - 👋 Hi, I’m @bibinprakashselvakumar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
